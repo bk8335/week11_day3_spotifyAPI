@@ -15,3 +15,16 @@ input{
   padding: 5px;
 }
 
+#album-image{
+  height: 10%;
+  width: 10%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body{
+  background-color: dodgerblue;
+}
+
